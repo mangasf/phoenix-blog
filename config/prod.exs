@@ -9,7 +9,7 @@ config :blog, Blog.Endpoint,
 
 config :logger, level: :info
 
-config :elixir_test_app, ElixirTestApp.Repo,
+config :elixir_test_app, Blog.Repo,
        adapter: Ecto.Adapters.Postgres,
        url: System.get_env("DATABASE_URL"),
        pool_size: String.to_integer(System.get_env("POOL_SIZE") || "10"),
