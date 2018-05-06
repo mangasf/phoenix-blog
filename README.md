@@ -37,7 +37,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Authors
 
-* **Francisco Mangas** - *Initial work* - [PurpleBooth](https://github.com/mangasf)
+* **Francisco Mangas** - *Initial work* - [Mangasf](https://github.com/mangasf)
+* **Vicent Guardiola** - *Initial work*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
