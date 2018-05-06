@@ -2,10 +2,6 @@
 
 Use Phoenix framework for create a simple blog with authentication.
 
-## Captures
-
-
-
 ### Prerequisites
 
 - Elixir 1.4 or later.
