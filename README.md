@@ -1,4 +1,20 @@
-# Blog
+# Phoenix Kata (Simple Blog)
+
+Use Phoenix framework for create a simple blog with authentication.
+
+## Captures
+
+
+
+### Prerequisites
+
+- Elixir 1.4 or later.
+- Erlang 18 or later.
+- Phoenix
+- PostgreSQL
+- NodeJS 5.0 or later
+
+### Installing
 
 To start your Phoenix app:
 
@@ -9,4 +25,23 @@ To start your Phoenix app:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
+
+## Deployment
+
+- [Deployment in general enviorement](https://hexdocs.pm/phoenix/deployment.html)
+- [Deployment in Heroku](https://hexdocs.pm/phoenix/heroku.html)
+
+## Built With
+
+* [Phoenix](http://phoenixframework.org/) - The web framework used
+
+## Authors
+
+* **Francisco Mangas** - *Initial work* - [PurpleBooth](https://github.com/mangasf)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
